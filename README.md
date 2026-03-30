@@ -1,4 +1,4 @@
-# ZHOU-SHIHAO
+# Integrated Learning CT Image Classification and Detection Model
 
 python:3.8.20
 
